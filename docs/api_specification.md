@@ -1,0 +1,1 @@
+cat /home/workdir/artifacts/codessa-memory/docs/api_specification.md
