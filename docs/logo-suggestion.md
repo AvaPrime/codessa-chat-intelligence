@@ -1,0 +1,1 @@
+Suggested logo: Modern AI brain with chat bubbles and document icons in dark blue/cyan.
